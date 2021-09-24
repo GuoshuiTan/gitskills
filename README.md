@@ -2,4 +2,4 @@
 git skills
 
 
-modify Readme
+Creating a new branch is quick and simple.
