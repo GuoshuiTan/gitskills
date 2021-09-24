@@ -3,4 +3,4 @@ git skills
 
 Git is a free software.
 
-fix bug 105.
+continue fix bug 105.
