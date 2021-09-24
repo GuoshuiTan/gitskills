@@ -1,5 +1,4 @@
 # gitskills
 git skills
 
-
-Creating a new branch is quick and simple.
+forbiden fast forward --on-ff.
